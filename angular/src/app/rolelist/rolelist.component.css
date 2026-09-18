@@ -1,9 +1,0 @@
-/* .table {
-    background-position: scroll;
-    position: fixed;
-    align-items: center;
-    left: 15%;
-} */
-.table{
-    position:absolute;
-    align-items: center;}
